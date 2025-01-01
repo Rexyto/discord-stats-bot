@@ -36,7 +36,7 @@
 
 ```bash
 # Clona este repositorio
-git clone https://github.com/tuusuario/discord-stats-bot.git
+git clone https://github.com/Rexyto/discord-stats-bot.git
 cd discord-stats-bot
 ```
 
