@@ -1,7 +1,7 @@
 # 📊 Discord Stats Bot
 
 
-![Bot Monitor Banner](https://images.piclumen.com/normal/20250101/18/72675a3a616840eea70ce59e5ba801af.webp)
+![Bot Monitor Banner](https://images.piclumen.com/normal/20250101/18/852b9097f2e04b44b03c679dd68b9e9f.webp)
 
 ¡Bienvenido a **Discord Stats Bot**! Este bot está diseñado para recopilar estadísticas clave sobre tu servidor de Discord, como el total de cuentas, miembros humanos, bots, roles y emotes. Todo esto se muestra en canales de voz, actualizándose automáticamente en tiempo real. 🎉
 
